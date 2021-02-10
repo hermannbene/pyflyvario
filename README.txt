@@ -1,4 +1,5 @@
-Experimental bluetooth variometer for paragliding using XCTRack app based on LK8EX1 flight instrument protocol.
+Experimental bluetooth variometer for paragliding using the XCTRack App or FlyMe. 
+Communication based on LK8EX1 flight instrument protocol.
 
 Hardware recommendation. 
 - Raspberry Pi Zero W
