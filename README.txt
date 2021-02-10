@@ -13,3 +13,4 @@ sudo rfcomm watch hci0
 Autostart com port on Raspberry Pi.
 sudo rfcomm watch hci0 & add to: /etc/rc.local
 
+Add main.py to autostart. 
