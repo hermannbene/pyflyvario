@@ -1,6 +1,12 @@
-Get bluetooth serial of phone. XX:XX:XX:XX:XX:XX phoneaddr
+Experimental bluetooth variometer for paragliding using XCTRack app based on LK8EX1 flight instrument protocol.
+
+Hardware recommendation. 
+- Raspberry Pi Zero W
+- Bosch BMP280 barometer, newer sensor models to be tested. 
+
 
 How to prepare Raspberry Pi for pairing with your phone. 
+Get bluetooth serial of phone. XX:XX:XX:XX:XX:XX phoneaddr
 
 bluetoothctl 
 discoverable on
